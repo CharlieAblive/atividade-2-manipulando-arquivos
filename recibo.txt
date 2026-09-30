@@ -16,10 +16,6 @@ Carro - Placa: AAA-1111
 Combustível: Etanol
 Valor:100
 
-Carro - Placa: AAA-1111
-Combustível: Etanol
-Valor:100
-
 Carro - Placa: BBB-2222
 Combustível: Gasolina
 Valor:55
@@ -38,13 +34,7 @@ Valor:75
 
 ========================================
 
-Etanol: 410
+Etanol: 310
 Gasolina: 280
 Diesel: 275
-Etanol: 410
-Etanol: 410
-Gasolina: 280
-Gasolina: 280
-Etanol: 410
-Diesel: 275
-TOTAL DO DIA: 965
+TOTAL DO DIA: 865
