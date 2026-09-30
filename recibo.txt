@@ -1,0 +1,50 @@
+========== POSTO DE GASOLINA ==========
+
+Carro - Placa: ABC-1234
+Combustível: Etanol
+Valor:50
+
+Moto - Placa: DEF-5678
+Combustível: Gasolina
+Valor:25
+
+Van Escolar - Placa: GHI-9012
+Combustível: Diesel
+Valor:200
+
+Carro - Placa: AAA-1111
+Combustível: Etanol
+Valor:100
+
+Carro - Placa: AAA-1111
+Combustível: Etanol
+Valor:100
+
+Carro - Placa: BBB-2222
+Combustível: Gasolina
+Valor:55
+
+Moto - Placa: CCC-3333
+Combustível: Gasolina
+Valor:200
+
+Moto - Placa: DDD-4444
+Combustível: Etanol
+Valor:160
+
+Van - Placa: EEE-5555
+Combustível: Diesel
+Valor:75
+
+========================================
+
+Etanol: 410
+Gasolina: 280
+Diesel: 275
+Etanol: 410
+Etanol: 410
+Gasolina: 280
+Gasolina: 280
+Etanol: 410
+Diesel: 275
+TOTAL DO DIA: 965
